@@ -1,3 +1,4 @@
+nodemon
 app
 flask
 gunicorn
